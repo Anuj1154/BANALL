@@ -31,7 +31,7 @@ filters.command("start")
 )
 async def start_command(client, message: Message):
   await message.reply_photo(
-                            photo = f"https://telegra.ph/file/fff2ee6f504bc061cb7d3.jpg",
+                            photo = f"https://telegra.ph/file/e8fd4c7f3abeadacdd2b8.jpg",
                             caption = f"𝐇𝐄𝐘, 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 𝐖𝐇𝐈𝐂𝐇 𝐈𝐒 𝐁𝐀𝐒𝐄𝐃 𝐎𝐍 𝐀 𝐏𝐘𝐓𝐇𝐎𝐍 𝐏𝐑𝐎𝐆𝐑𝐀𝐌 𝐓𝐎 ,  𝐏𝐋𝐀𝐘 𝐀𝐋𝐋 𝐓𝐘𝐏𝐄 𝐎𝐅 𝐌𝐔𝐒𝐈𝐂 𝐈𝐍 𝐓𝐇𝐄 𝐆𝐑𝐎𝐔𝐏\n\n𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐌𝐘 𝐀𝐁𝐈𝐋𝐈𝐓𝐘 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐅𝐔𝐋𝐋 𝐏𝐎𝐖𝐄𝐑𝐒\n\n𝐄𝐍𝐉𝐎𝐘 𝐓𝐇𝐄 💀☠️ 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐁𝐎𝐓 𝐒𝐎𝐂𝐈𝐄𝐓💀☠️ /start.",
   reply_markup=InlineKeyboardMarkup(
             [
